@@ -1,0 +1,3 @@
+ Reg: B004568656 Name: Jeni Watt Course: BSc Computing Year of Study: 1
+ Reg: B00708431 Name: Jack Hannaway Course: BSc Computing Year of Study: 2
+ Reg: B004568234 Name: John Doe Course: BSc Computing Year of Study: 4
